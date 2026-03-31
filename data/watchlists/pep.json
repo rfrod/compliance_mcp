@@ -1,0 +1,5 @@
+[
+  { "id": "PEP-001", "name": "Carlos Mendez",  "role": "Minister of Finance", "country": "MX", "dob": "1965-03-12" },
+  { "id": "PEP-002", "name": "Amara Diallo",   "role": "Central Bank Governor","country": "NG", "dob": "1971-07-22" },
+  { "id": "PEP-003", "name": "Ivan Sorokin",   "role": "State Dept Official",  "country": "RU", "dob": "1980-11-05" }
+]

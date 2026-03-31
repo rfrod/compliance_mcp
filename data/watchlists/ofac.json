@@ -1,0 +1,5 @@
+[
+  { "id": "OFAC-001", "name": "Viktor Petrov",    "country": "RU", "program": "RUSSIA-EO13661" },
+  { "id": "OFAC-002", "name": "Lucia Marquez",    "country": "VE", "program": "VENEZUELA-EO13850" },
+  { "id": "OFAC-003", "name": "Zhang Wei Trading","country": "CN", "program": "SDGT" }
+]
