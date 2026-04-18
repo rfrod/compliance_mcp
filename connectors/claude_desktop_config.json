@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "compliance-mcp-agent": {
+      "command": "python",
+      "args": ["/absolute/path/to/compliance-mcp-agent/server.py"],
+      "env": {
+        "VELOCITY_LIMIT": "5",
+        "VELOCITY_WINDOW_MINUTES": "10",
+        "HIGH_AMOUNT_THRESHOLD": "10000",
+        "OFAC_HIT_SCORE": "1.0",
+        "PEP_HIT_SCORE": "0.6",
+        "VELOCITY_HIT_SCORE": "0.4",
+        "HIGH_AMOUNT_SCORE": "0.3"
+      }
+    }
+  }
+}
